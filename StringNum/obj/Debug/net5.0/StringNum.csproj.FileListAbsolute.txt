@@ -1,0 +1,16 @@
+D:\Project_C#\StringNum\StringNum\bin\Debug\net5.0\StringNum.exe
+D:\Project_C#\StringNum\StringNum\bin\Debug\net5.0\StringNum.deps.json
+D:\Project_C#\StringNum\StringNum\bin\Debug\net5.0\StringNum.runtimeconfig.json
+D:\Project_C#\StringNum\StringNum\bin\Debug\net5.0\StringNum.runtimeconfig.dev.json
+D:\Project_C#\StringNum\StringNum\bin\Debug\net5.0\StringNum.dll
+D:\Project_C#\StringNum\StringNum\bin\Debug\net5.0\ref\StringNum.dll
+D:\Project_C#\StringNum\StringNum\bin\Debug\net5.0\StringNum.pdb
+D:\Project_C#\StringNum\StringNum\obj\Debug\net5.0\StringNum.csprojAssemblyReference.cache
+D:\Project_C#\StringNum\StringNum\obj\Debug\net5.0\StringNum.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project_C#\StringNum\StringNum\obj\Debug\net5.0\StringNum.AssemblyInfoInputs.cache
+D:\Project_C#\StringNum\StringNum\obj\Debug\net5.0\StringNum.AssemblyInfo.cs
+D:\Project_C#\StringNum\StringNum\obj\Debug\net5.0\StringNum.csproj.CoreCompileInputs.cache
+D:\Project_C#\StringNum\StringNum\obj\Debug\net5.0\StringNum.dll
+D:\Project_C#\StringNum\StringNum\obj\Debug\net5.0\ref\StringNum.dll
+D:\Project_C#\StringNum\StringNum\obj\Debug\net5.0\StringNum.pdb
+D:\Project_C#\StringNum\StringNum\obj\Debug\net5.0\StringNum.genruntimeconfig.cache
